@@ -18,8 +18,7 @@ function solve() {
 			pass.innerText = ""; 
 		}, 3000); 
 	} 
-
-	if (password !== confirmpassword) { 
+    if (password !== confirmpassword) { 
 		flag = 0; 
 		pass.innerText = 
 			"Passwords do not match. Please re-enter."; 

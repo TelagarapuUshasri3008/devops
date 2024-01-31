@@ -230,7 +230,8 @@ Authentication Service is part of Ecommerce Food Application.It is built around 
 ## Workflow ##
 
 ### Workflow Diagram ###
-![Workflow.png](https://bitbucket.org/repo/qEdkgrG/images/580717476-Workflow.png)
+![image](https://github.com/TelagarapuUshasri3008/devops/assets/127919829/8ca69917-8b5b-4af9-a048-207a5fa95280)
+
 
 ## Development ##
 

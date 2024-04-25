@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>book project</title>
+    <link rel="stylesheet" href="form.css">
+</head>
+<body class="cy">
+        <h2 style="text-align: center;">Your feedback help us to improve.</h2>
+        <div class="city">
+        <h2>How would you rate this App?</h2>
+        <h4 id="city1">Rate this app it really motivate us to add new features.</br style="text-align:center"><font color="blue">Thanks in advance.</font></h4>
+        <span style='font-size:60px;'>&#128542; &#128528; &#128515; &#128522;</span></br>
+        <label class="radio-inline"><input type="radio" name="optradio">Unhappy</label>
+        <label class="radio-inline"><input type="radio" name="optradio">Neutral</label>
+        <label class="radio-inline"><input type="radio" name="optradio">Happy</label>
+        <label class="radio-inline"><input type="radio" name="optradio">Excellent</label>
+        <div class="city2">
+        <a href="feedback.jpg"><button style="background-color:yellow" color: black">Send Feedback</button>  
+        </a> </div>
+</body>
+</html>
